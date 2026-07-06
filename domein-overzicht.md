@@ -1,5 +1,16 @@
 # Domein-overzicht
 
+## Statuswaarden
+
+Gebruik één van deze vaste statussen:
+
+- **Actief** – website of mail wordt actief gebruikt
+- **Semi-actief** – domein bestaat, maar wordt beperkt gebruikt
+- **Geparkeerd** – domein is geregistreerd, maar doet nog niets
+- **Redirect** – domein verwijst door naar een andere website
+- **Privé** – alleen persoonlijk/familiegebruik
+- **Opzeggen** – domein hoeft waarschijnlijk niet verlengd te worden
+
 Dit document geeft overzicht van de domeinnamen, het doel, de status en de beheerinformatie.
 
 | Domeinnaam | Doel | Status | Hosting | DNS-provider | Mail actief | Redirect | Vervaldatum | Actiehouder | Notities |
