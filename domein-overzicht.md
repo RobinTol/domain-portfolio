@@ -11,9 +11,9 @@ Gebruik één van deze vaste statussen:
 - **Privé** – alleen persoonlijk/familiegebruik
 - **Opzeggen** – domein hoeft waarschijnlijk niet verlengd te worden
 
-Mail actief: Ja / Nee / Nog bepalen
-Redirect: Ja / Nee / Nog bepalen
-Hosting: VPS / ISPConfig / Geen aparte hosting / Nog bepalen
+- Mail actief: Ja / Nee / Nog bepalen
+- Redirect: Ja / Nee / Nog bepalen
+- Hosting: VPS / ISPConfig / Geen aparte hosting / Nog bepalen
 
 Dit document geeft overzicht van de domeinnamen, het doel, de status en de beheerinformatie.
 
